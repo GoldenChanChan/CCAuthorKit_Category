@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CCAuthorKit_Category_Example' do
+  pod 'CCAuthorKit_Category', :path => '../'
+
+  target 'CCAuthorKit_Category_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
