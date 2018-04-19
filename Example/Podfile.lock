@@ -17,7 +17,7 @@ PODS:
   - CCAPIsKit (1.0):
     - AFNetworking
     - CCTools
-  - CCAuthorKit_Category (1.0):
+  - CCAuthorKit_Category (1.1):
     - CCAPIsKit
     - CTMediator
   - CCTools (1.0):
@@ -49,7 +49,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
   CCAPIsKit: 2c1880c2217b13feaa2e0696092393bb00e2b821
-  CCAuthorKit_Category: 71587b262b02c040b03c1c261c43e66cd3c62fdb
+  CCAuthorKit_Category: a89e5d1a6b78014f92e32cf31f69f0b7f4415a7a
   CCTools: 695c0111a281916243a1bc36c31c62daf39a80c1
   CTHandyCategories: 10f812a5f545a9d8da34112e068a6e9b469c6782
   CTMediator: d9122c972b29559d5d733a205e9b0a18c933b2ad

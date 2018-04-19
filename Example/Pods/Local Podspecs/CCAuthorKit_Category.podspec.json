@@ -1,6 +1,6 @@
 {
   "name": "CCAuthorKit_Category",
-  "version": "1.0",
+  "version": "1.1",
   "summary": "A short description of CCAuthorKit_Category.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/GoldenChanChan/CCAuthorKit_Category",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/GoldenChanChan/CCAuthorKit_Category.git",
-    "tag": "1.0"
+    "tag": "1.1"
   },
   "platforms": {
     "ios": "8.0"
