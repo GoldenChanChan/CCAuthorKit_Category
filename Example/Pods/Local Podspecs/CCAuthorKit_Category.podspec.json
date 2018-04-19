@@ -1,0 +1,30 @@
+{
+  "name": "CCAuthorKit_Category",
+  "version": "1.0",
+  "summary": "A short description of CCAuthorKit_Category.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/GoldenChanChan/CCAuthorKit_Category",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chencheng2046@126.com": "chencheng2046@126.com"
+  },
+  "source": {
+    "git": "https://github.com/GoldenChanChan/CCAuthorKit_Category.git",
+    "tag": "1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CCAuthorKit_Category/Classes/**/*",
+  "dependencies": {
+    "CTMediator": [
+
+    ],
+    "CCAPIsKit": [
+
+    ]
+  }
+}
